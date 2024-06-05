@@ -1,8 +1,6 @@
 # Exercícios de Python
 
-Exercícios do curso "programação em Python do básico ao avançado" da Geek University
 Os exercícios estão separados por seções!
-
 
 ## Seções
 ##### Observação: as seções 1,2,3 não possuem exercícios, mas seu conteúdo é utilizado nas demais seções.
