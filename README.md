@@ -5,7 +5,7 @@ Os exercícios estão separados por seções!
 
 
 ## Seções
-###Observação: as seções 1,2,3 não possuem exercícios, mas seu conteúdo é utilizado nas demais seções.
+##### Observação: as seções 1,2,3 não possuem exercícios, mas seu conteúdo é utilizado nas demais seções.
 1. **Apresentação do curso:**
 - preparação do ambiente;
 - sobre o curso.
@@ -26,5 +26,5 @@ Os exercícios estão separados por seções!
 - if, else, elif;
 - AND, OR, NOT, IS.
 
-##Demais seções ainda serão feitas...
+## Demais seções ainda serão feitas...
 ![](pikachu.gif)
