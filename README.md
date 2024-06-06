@@ -3,7 +3,7 @@
 Os exercícios estão separados por seções!
 
 ## Seções
-##### Observação: as seções 1,2,3 não possuem exercícios, mas seu conteúdo é utilizado nas demais seções.
+##### Observação: as seções 1,2 e 3 não possuem exercícios mas seu conteúdo é utilizado nas demais seções.
 1. **Apresentação do curso:**
 - preparação do ambiente;
 - sobre o curso.
